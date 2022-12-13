@@ -13,12 +13,12 @@ interface WrapperProps {
 }
 
 const meta = {
-  title: "Daniel Coles - Software Engineer",
-  description: `Full Stack Software Engineer that loves making fun things with code!`,
+  title: "Maddie Campbell - Lil tree hugger",
+  description: `Lil tree hugger!`,
   type: "website",
-  siteName: "Daniel Coles",
-  twitterHandle: "@_danielcoles",
-  url: "https://danielcoles.dev",
+  siteName: "Maddies World",
+  twitterHandle: "@VaLandscapes",
+  url: "https://abcportfolio5a.vercel.app",
   image: "https://danielcoles.dev/meta.png",
   imageAlt: "Logo for danielcoles.dev",
 }
