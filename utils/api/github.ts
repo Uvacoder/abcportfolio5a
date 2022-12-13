@@ -1,4 +1,4 @@
-const GET_REPOSITORIES_URL = "https://api.github.com/users/uvacoder/repos"
+const GET_REPOSITORIES_URL = "https://api.github.com/users/22940dev/repos"
 
 const githubToken = process.env.GITHUB_PAT_TOKEN
 
