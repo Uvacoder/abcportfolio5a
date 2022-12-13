@@ -18,7 +18,7 @@ const AnimatedNavbar: React.FC = () => {
                 |
               </motion.span>
               <motion.div variants={FADE_DOWN} className="font-bold">
-                DANIEL COLES
+                Maddie Campbell
               </motion.div>
             </a>
           </NextLink>
