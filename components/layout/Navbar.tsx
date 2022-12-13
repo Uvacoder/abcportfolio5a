@@ -15,7 +15,7 @@ const Navbar: React.FC = () => {
             <a className="flex">
               <Logo />
               <span className="px-2">|</span>
-              <div className="font-bold">DANIEL COLES</div>
+              <div className="font-bold">Maddie Campbell</div>
             </a>
           </NextLink>
           <div className="flex space-x-4">
