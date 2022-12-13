@@ -20,7 +20,7 @@ const About: React.FC = () => {
               <span className="font-extrabold">
                 Hey, I&apos;m{" "}
                 <Underline colour={underline[0]} order={1} duration={500}>
-                  Daniel!
+                  Maddie!
                 </Underline>
               </span>{" "}
               👋
@@ -28,14 +28,13 @@ const About: React.FC = () => {
             <div className="mt-4">
               <motion.p variants={FADE_IN} className="my-2 text-lg">
                 <Bracket colour={bracket[0]} order={2} duration={500}>
-                  I like making cool and interesting things with code, as well as designing stuff
-                  for fun!
+                  Im a tree hugging free spirited resident of Nova!
                 </Bracket>
               </motion.p>
               <motion.p variants={FADE_IN} className="my-2">
-                I&apos;m currently working as a{" "}
+                I&apos;m currently living with my{" "}
                 <Highlight colour={highlight[1]} order={3}>
-                  Software Engineer
+                  Parents
                 </Highlight>{" "}
                 at{" "}
                 <a
@@ -61,7 +60,7 @@ const About: React.FC = () => {
               <motion.p variants={FADE_UP} className="my-2">
                 You can check out some of my work here on{" "}
                 <a
-                  href="https://www.github.com/dcolesDEV"
+                  href="https://www.github.com/uvacoder"
                   target="_blank"
                   className="font-bold hover:text-rose-300 dark:hover:text-violet-500"
                   rel="noreferrer"
